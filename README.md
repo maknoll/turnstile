@@ -4,7 +4,7 @@ This tool uses the NFC chips on the student identity cards of the Otto-von-Gueri
 
 The UIDs are SHA1 hashed before there are stored in a Sqlite3 database.
 
-# Depencies
+## Depencies
 
 - ruby
 - sqlite3
