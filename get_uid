@@ -1,0 +1,4 @@
+# reset the card
+reset
+# get the uid
+ff ca 00 00 00
