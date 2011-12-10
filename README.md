@@ -1,4 +1,4 @@
-# Turnstyle
+# Turnstile
 
 This tool uses the NFC chips on the student identity cards of the Otto-von-Guericke-Universität Magdeburg to quickly check if someone has been scanned before.
 
